@@ -2,9 +2,10 @@
 
 <h1 align="center">Hi, I'm Umme Habiba 👋</h1>
 <p align="center">
-🎓 Software Engineering Student @ PAF-IAST, Haripur (Pakistan)<br>
+🎓 Software Engineering Student<br>
+   📍 PAF-IAST Haripur (Pakistan) <br>
   💡 Passionate about Web Development . Graphic Design . Secure Systems<br>
-  📍 PAF-IAST | Obsessed with clean code & creative solutions
+ 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Animated illustration of a developer at work" width="350"/>
 </p>
