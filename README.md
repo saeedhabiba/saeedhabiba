@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Umme Habiba 👋</h1>
 <p align="center">
-  🎓 Software Engineering Student (4th Semester)<br>
+🎓 Software Engineering Student @ PAF-IAST, Haripur (Pakistan)<br>
   💡 Passionate about Web Development . Graphic Design . Secure Systems<br>
   📍 PAF-IAST | Obsessed with clean code & creative solutions
 <p align="center">
@@ -59,13 +59,18 @@ Currently mastering the fundamentals, one project at a time.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saeedhabiba&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saeedhabiba&theme=radical" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedhabiba&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedhabiba&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saeedhabiba&theme=tokyonight" alt="GitHub Profile Details"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
