@@ -121,7 +121,6 @@ A responsive web app for scheduling and managing doctor visits efficiently.
 ## 🗨️ Quote I Live By
 
 > “Don’t just code to solve problems. Design to make experiences.”  
-> — Umme Habiba 🌸
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saeedhabiba&style=flat-square&color=brightgreen" alt="Profile views"/>
 </p>
