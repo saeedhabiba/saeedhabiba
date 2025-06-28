@@ -1,13 +1,28 @@
-<h1 align="center">Hi, I'm Umme Habiba</h1>
 
+
+<h1 align="center">Hi, I'm Umme Habiba 👋</h1>
 <p align="center">
   🎓 Software Engineering Student (4th Semester)<br>
-  💡 Passionate about Web Development, UI/UX, Graphic Design & Secure Systems<br>
+  💡 Passionate about Web Development . Graphic Design . Secure Systems<br>
   📍 PAF-IAST | Obsessed with clean code & creative solutions
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Animated illustration of a developer at work" width="350"/>
 </p>
 
----
 
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saeedhabiba&style=flat-square&color=brightgreen" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Crafting+elegant+web+interfaces;Designing+with+purpose+%26+precision;Translating+ideas+into+clean+code;Driven+by+curiosity+%26+creativity;Committed+to+user-first+solutions;Building+for+impact%2C+one+project+at+a+time" alt="Professional Typing Animation" />
+</p>
+
+
+
+---
 
 ## 🚀 Who Am I?
 
@@ -18,19 +33,19 @@ Currently mastering the fundamentals, one project at a time.
 ---
 
 ## 📚 Currently Learning
-  
-- 🐍 Python (Problem solving, automation, OOP)  
+
+- 🐍 Python (Problem solving, automation)  
 - 🖌️ Graphic Designing (Posters, branding, social media content)  
-- 🔄 Git & GitHub (Version control, collaboration)   
+- 🔄 Git & GitHub (Version control, collaboration)
 
 ---
 
 ## 🎯 Current Focus
 
-- Designing clean, professional visuals with tools like Canva  
+- Strengthening problem-solving through Python
 - Enhancing UI/UX in web interfaces  
+- Designing clean, professional visuals with tools like Canva  
 - Practicing responsive design in WordPress  
-- Strengthening problem-solving through Python  
 - Working on visual communication in graphic design
 
 ---
@@ -47,36 +62,45 @@ Currently mastering the fundamentals, one project at a time.
 
 ---
 
-## 🎯 Career Goals
+## 📊 GitHub Stats
 
-- 🔍 Master front-end and transition into full-stack development  
-- 🧠 Improve data structures & algorithmic thinking  
-- 🎨 Build beautiful, accessible, responsive interfaces  
-- ✨ Design visually appealing digital content and UIs  
-- 📈 Launch real-world apps that solve meaningful problems  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saeedhabiba&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saeedhabiba&theme=radical" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedhabiba&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
 **🔐 SecureVault**  
-A file encryption tool built with AES‑256 encryption — simple, secure, and effective.
+AES‑256 based file encryption tool focused on simplicity and security.
 
 **🩺 Doctor Appointment System**  
 A responsive web app for scheduling and managing doctor visits efficiently.
 
 ---
 
+## 🤓 Fun Facts About Me
 
-## 📬 Connect With Me
+- 🌸 I love organizing messy UIs into clean, user-friendly designs.
+- 🔐 I'm curious about ethical hacking and secure systems.
+- 🎨 Canva is my go-to creative playground.
+- ✍️ I write code like poetry — one elegant line at a time.
+
+
+---
+
+## 📬 Let’s connect — I'm always open to collaborations, ideas, or just a friendly chat.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/habiba-saeed-75a728333)
 - 📧 [Email](mailto:saeedhabiba001@gmail.com)
 - 🌐 [Portfolio](https://github.com/saeedhabiba)
 
-
 ---
-
 
 ## 🧰 Tools & Technologies I Use
 
@@ -91,7 +115,12 @@ A responsive web app for scheduling and managing doctor visits efficiently.
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
+---
 
-<p align="center"><em>“Don’t just code to solve problems. Design to make experiences.”</em></p>
+## 🗨️ Quote I Live By
 
-
+> “Don’t just code to solve problems. Design to make experiences.”  
+> — Umme Habiba 🌸
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saeedhabiba&style=flat-square&color=brightgreen" alt="Profile views"/>
+</p>
