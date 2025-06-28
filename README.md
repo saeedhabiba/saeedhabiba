@@ -11,11 +11,6 @@
 
 
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saeedhabiba&style=flat-square&color=brightgreen" alt="Profile views"/>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Crafting+elegant+web+interfaces;Designing+with+purpose+%26+precision;Translating+ideas+into+clean+code;Driven+by+curiosity+%26+creativity;Committed+to+user-first+solutions;Building+for+impact%2C+one+project+at+a+time" alt="Professional Typing Animation" />
 </p>
